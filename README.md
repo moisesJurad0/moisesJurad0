@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-### Some facts
-
+## 📊 Github Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesjurad0&show_icons=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesjurad0&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🔥 Streak Stats
 [![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moisesJurad0&theme=dark)](https://git.io/streak-stats)
 
 <!--
