@@ -2,9 +2,11 @@
 
 ### Some facts
 
-[![Moises's GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesjurad0&show_icons=true&layout=compact&theme=dark)](https://github.com/moisesjurad0/github-readme-stats)
+[![Moises's GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesjurad0&show_icons=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesjurad0&layout=compact&theme=dark&langs_count=8)](https://github.com/moisesjurad0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesjurad0&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moisesjurad0&theme=buefy)]
 
 <!--
 **moisesJurad0/moisesJurad0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
